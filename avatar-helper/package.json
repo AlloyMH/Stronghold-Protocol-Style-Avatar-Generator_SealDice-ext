@@ -1,0 +1,20 @@
+{
+  "name": "avatar-helper",
+  "version": "1.0.0",
+  "description": "Helper service for stronghold avatar generation",
+  "type": "module",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "M.H.",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^17.3.1",
+    "express": "^5.2.1",
+    "node-fetch": "^3.3.2",
+    "playwright": "^1.58.2",
+    "sharp": "^0.34.5"
+  }
+}

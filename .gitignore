@@ -1,0 +1,13 @@
+avatar-helper/node_modules/
+avatar-helper/.env
+stronghold-protocol-avatar/node_modules/
+stronghold-protocol-avatar/docs/
+stronghold-protocol-avatar/*.tsbuildinfo
+README.md
+**/README.md
+**/*.md
+Sealdice JS 扩展功能.html
+Sealdice JS 扩展功能_files/
+*_files/
+.DS_Store
+Thumbs.db
